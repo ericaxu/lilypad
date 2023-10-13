@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Source+Sans+3:wght@400&display=swap');
+
+body,
+.published-container {
+	--h1-color: rgb(112, 168, 100);
+	--h2-color: rgb(112, 168, 100);
+	--h3-color: rgb(112, 168, 100);
+	--h4-color: rgb(112, 168, 100);
+	--h5-color: rgb(112, 168, 100);
+	--h6-color: rgb(112, 168, 100);
+	--h1-font: 'Carter One', sans-serif;
+	--h2-font: 'Carter One', sans-serif;
+	--h3-font: 'Carter One', sans-serif;
+	--h4-font: 'Carter One', sans-serif;
+	--h5-font: 'Carter One', sans-serif;
+	--h6-font: 'Carter One', sans-serif;
+	--font-text: 'Source Sans 3', sans-serif;
+	--text-accent: rgb(112, 168, 100);
+	--text-accent-2: rgb(112, 168, 100);
+	--hr-thickness: 1px;
+	--site-name-color-hover: rgb(112, 168, 100);
+}
+
+.list-cards div > ul {
+    --link-color: var(--text-normal);
+    --link-unresolved-color: var(--text-muted);
+    --link-decoration: none;
+    --link-decoration-hover: none;
+    --link-external-color: var(--text-normal);
+    --link-external-decoration: none;
+    --link-external-decoration-hover: none;
+    display: grid;
+    gap: 8px;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    padding:0;
+}
+.list-cards div > ul > li {
+    display: flex;
+    border-radius: var(--radius-s);
+    border: 1px solid var(--color-base-25);
+}
+.list-cards div > ul > li:has(ul) {
+	flex-direction: column;
+}
+.list-cards div > ul > li:has(ul) a {
+	flex-grow: 0;
+}
+.list-cards div ul > li a {
+	flex-grow: 1;
+    padding: 16px;
+    font-weight: var(--font-semibold);
+    background: none;
+}
+.list-cards div ul > li:hover {
+    border-color: var(--color-base-35);
+}
+
+.theme-dark .list-cards div ul > li {
+    background-color: var(--background-secondary);
+}
+.list-cards div ul ul {
+    display: block;
+    width: 100%;
+    color: var(--text-muted);
+    font-size: var(--font-smaller);
+    margin-top: -8px;
+    padding: 0 16px 16px;
+}
+.list-cards div ul ul > li {
+    display: block;
+}
+
+/* App icons */
+.list-cards .icon-app {
+	display: inline-block;
+	align-self: center;
+	margin-left: 16px;
+	margin-right: -32px;
+	width: 24px; 
+	height: 24px;
+	background-repeat: no-repeat;
+	background-size: 24px 24px;	
+	background-position: center;
+}
+.list-cards .icon-app + a {
+	padding-left: 40px;
+	align-self: center;
+	line-height: 1.15;
+}
+
+body,
+.site-body-left-column,
+.site-body-center-column {
+	//background-color: rgb(251, 226, 220);
+}
+
+.sliding-windows .site-body-right-column {
+	box-shadow: none;
+}
+
+.sliding-windows .publish-renderer {
+	background-color: #FDF7F5;
+}
+
+.callout[data-callout='do'] {
+	--callout-color: var(--color-green-rgb);
+}
+.callout[data-callout='dont'] {
+	--callout-color: var(--color-red-rgb);
+}
+
+.backlinks {
+	margin-top: 30px;
+}
+
+.site-header-text {
+	text-align: center;
+    	font-family: 'Carter One';
+    	color: var(--h1-color);
+    	font-size: 28px;
+}
+
+.site-header-logo {
+	display: none;
+}
+
+.published-container .markdown-rendered h1, .published-container .markdown-rendered h2 {
+	border-bottom: none;
+}
