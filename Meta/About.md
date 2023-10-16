@@ -13,3 +13,5 @@ Thanks for inspiration from Quinn Dai & Gin Jiang as they work on [AFAIK](https:
 # Contributing
 
 If you'd like to contribute to Lilypad and become a curator, please contact me at i<!--stop spammers-->a<!--stop spammers-->m<!--stop spammers-->@<!--stop spammers-->e<!--stop spammers-->r<!--stop spammers-->i<!--stop spammers-->c<!--stop spammers-->a<!--stop spammers-->x<!--stop spammers-->u<!--stop spammers-->.<!--stop spammers-->c<!--stop spammers-->o<!--stop spammers-->m.
+
+You can also just find this Obsidian on [GitHub](https://github.com/ericaxu/lilypad) and contribute there.

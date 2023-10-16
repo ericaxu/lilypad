@@ -24,6 +24,7 @@ A pad needs to be interesting on its own. It's something you would bring up in c
 ### Low barrier
 
 A good pad should be approachable to laymen. It shouldn't require domain expertise to understand the gist behind the idea.
+
 ### Short
 
 A pad is a lily pad, not an aircraft carrier! When the topic gets large, split it into more pads. The point of being small is that more connections are possible between the pads, and that our little frogs don't get lost on huge pads.

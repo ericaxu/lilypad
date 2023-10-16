@@ -4,20 +4,26 @@ cssclasses:
 ---
 # Start here
 
-You can either browse or search on Lilypad.
+Lilypad is an interconnected web of short and unexpected facts. It's currently curated by [Erica](https://ericaxu.com).
 
-## Browse
+Lilypad currently has **54** pads and is growing! Let me know if you're interested in [[About#Contributing|contributing]].
 
-To browse, start from the navigation bar on the left. From there, just follow the links to feed your curiosity.
+## Ponds
 
-## Search
+- [[Pond - Fishes|Fishes]]
+- [[Pond - Chameleons|Chameleons]]
+- [[Pond - Cephalopods|Cephalopods]]
+	- Smartass octopuses and squids.
+- [[Pond - Video games and reality|Video games and reality]]
+- [[Pond - Looking at the night sky|Looking at the night sky]]
+- [[Pattern - Historical figures behaving like complex, real people|Historical figures behaving like complex, real people]]
+	- People in history books have their struggles and quirks like everyday people as well.
 
-If you already know what you're most interested in, search away!
-
-For example, type "octopus" or "chameleon" directly into the search bar and see what gems you find.
-
-## Road signs
+## Meta
 
 - [[About]]
+	- Why does Lilypad exists.
 - [[What makes a pad]]
+	- Criteria of curating pads.
 - [[Types of pages]]
+	- Pads, ponds, and patterns.
