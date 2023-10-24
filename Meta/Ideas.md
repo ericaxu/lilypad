@@ -28,5 +28,10 @@ publish: "false"
 - Dave Shaw died saving a body of a teenage boy
 - Why does wearing black makes people skinny 
 - baroque period music has lots of tracks and no sustain because they used harpichord. piano wasn't invented
-
-
+- early piano 430 hz not 440
+- oxygen not included uses randomly generated music
+- the biggest virus is bigger than the smallest bacteria
+- 266x brass microscope was one of the highest amp back then
+- piano covers more than 7 octaves with 88 keys, covering all of humans' distinguishable hearing range
+- Talking drum in Africa
+- 

@@ -1,5 +1,10 @@
-# Octopuses have three hearts
+# Octopus has three hearts
 
-One is to pump blood throughout its body, just like us. The other two pump blood through its gills to get the blood oxygenated.
+One of them is for pumping blood throughout its body, just like us. The other two pump blood through its gills to get the blood oxygenated.
 
-![[Octopus three hearts.gif]]
+![[Octopuses have three hearts.png]]
+_Image by Raja Lockey_
+
+## Road signs
+
+- [[Pond - Cephalopods]]
