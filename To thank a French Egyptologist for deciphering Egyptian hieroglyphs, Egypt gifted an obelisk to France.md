@@ -8,3 +8,11 @@ Jean-François Champollion died at the early age of 41 in 1832 and never got to 
 
 ![[Removal of Luxor Obelisks.png]]
 _Removal of the obelisk_
+
+## Road signs
+
+- [[Ancient Egyptian women peed on wheat and barley seeds to see if they're pregnant]]
+
+---
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Luxor_Obelisks)

@@ -6,7 +6,7 @@ cssclasses:
 
 Lilypad is an interconnected web of short and unexpected facts. It's currently curated by [Erica](https://ericaxu.com).
 
-Lilypad currently has **60** pads and is growing! Let me know if you're interested in [[About#Contributing|contributing]].
+Lilypad currently has **62** pads and is growing! Let me know if you're interested in [[About#Contributing|contributing]].
 
 ## Ponds
 

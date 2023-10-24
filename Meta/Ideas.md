@@ -34,4 +34,5 @@ publish: "false"
 - 266x brass microscope was one of the highest amp back then
 - piano covers more than 7 octaves with 88 keys, covering all of humans' distinguishable hearing range
 - Talking drum in Africa
+- Mozart and Haydn had ideas about generative music (Musikalisches Würfelspiel)
 - 
